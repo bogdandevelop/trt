@@ -1,0 +1,1592 @@
+
+    body{
+      font-family: Arial, sans-serif;
+      padding: 0;
+      margin: 0;
+      background: url(img/fon2.jpg)  ;
+      width: 100%;
+   
+    
+      }
+  
+
+    
+
+    .clearfix:after {
+    content:'';
+    display: table;
+    width: 100%;
+    clear: both;
+    }
+  
+
+
+
+
+
+
+
+
+
+    @media screen and (min-width: 25px) and (max-width: 360px) {
+    
+      
+     
+
+
+
+
+
+    
+    #logo{
+        background-color: rgba(0, 0, 0, 0.507);
+        height: 36px;
+        width: 100%;
+      position: fixed;
+    }
+
+    #logo_img{
+        height: 34px;
+     
+      margin-left: 10px;
+     
+     float: left;
+    
+    }
+
+    #fon1{
+     width: 100%;
+     height:auto;
+ 
+     
+   
+        }
+
+
+     #fon1_img{
+        width: 100%;
+      
+    
+      
+         }
+
+
+
+         #menu {
+            width: 100%;
+            height: auto;
+            margin-top: 5px;
+            background-color: rgb(255, 255, 255);
+            color: black;
+            margin-left: 1%;
+            float: left;
+            text-decoration: none;
+            border-radius: 25%;
+           
+        }
+
+         #text3 {
+            font-family: Georgia;
+            margin-left: 22%;
+            padding-top: 1%;
+         padding-bottom: 1%;
+            font-size: 9px;
+            color: rgb(0, 0, 0);
+        }
+
+
+
+        #text2 {
+        height: auto;
+     margin-left: 15px;
+       margin-top: 14px;
+      padding-bottom: 1%;
+         font-size: 11px;
+         color: rgb(0, 0, 0);
+     }
+
+
+
+
+
+
+
+
+
+#film1{
+    background-color: rgb(255, 255, 255);
+    height: auto;
+ margin-top: 25px;
+ width: 100%;
+ border-radius: 8px;
+}
+
+
+
+.film_bord{
+    background-color: black;
+    height: auto;
+    border-radius: 20px;
+    border-radius: 9px;
+   padding-bottom: 1%;
+}
+
+
+.film_text1{
+   color: rgb(255, 255, 255);
+   font-size: 10px;
+ 
+   margin-left: 5%;
+   height: auto;
+}
+
+
+
+    
+   
+           
+.block1{
+   height: 107px;
+   width: 72px;
+   background-color: rgb(255, 255, 255);
+   float: left;
+   border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+
+.block1_1{
+   height: 80px;
+   width: 55px;
+   background-color: rgb(255, 255, 255);
+   margin-left: 4px;
+}
+
+
+
+
+
+
+
+#foto2{
+
+background-color: rgb(255, 255, 255);
+margin-left: 2px;
+width: 76%;
+height: 110px;
+float: left;
+
+}
+
+
+.scrolling{
+height: 110px;
+width: 285px;
+background-color: rgb(255, 255, 255);
+
+float: left;
+
+
+overflow-x: scroll;
+overflow-y: hidden;
+white-space: nowrap;
+word-wrap: normal;
+
+
+
+}
+
+
+
+#text_opis{
+   font-size: 12px;
+   margin-left: 5px;
+    margin-top: 117px;
+    padding-bottom: 1px;
+}
+
+
+
+#rekl1{
+  background-color:  rgb(46, 46, 46);
+   height: 40px;
+   margin-top: 8px;
+   border-radius: 9px;
+}
+
+.rekl1_foto1{
+   margin-top: 5px;
+   height: 30px;
+   margin-bottom: 5px;
+   margin-left: 5px;
+   border-radius: 39px;
+   float: left;
+}
+
+.rekl1_text1{
+   margin-top: 3px;
+  font-size: 12px;
+  color: rgb(255, 255, 255);
+   float: left;
+   margin-left: 10px;
+}
+
+#link1{
+   color: rgb(1, 240, 13);
+   float: left;
+}
+
+
+
+
+
+
+#knopka {
+   width: 30%;
+   height: 30px;
+   
+   border-radius: 18px;
+   margin-left: 5%;
+   margin-top: 1%;
+   float: right;
+   margin-right: 2%;
+   border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+
+
+#reclamatext{
+   text-decoration: none;
+   font-size: 11px;
+   float: right;
+   margin-right: 16%;
+       margin-left: 20%;
+   -webkit-animation: blink 4s linear infinite; 
+   animation: blink 4s linear infinite; 
+   font-weight: bold; 
+   
+   }
+   
+   @-webkit-keyframes blink { 
+   0% { color: rgb(81, 255, 0); }
+   50% { color: rgb(78, 212, 16); }
+   100% { color:  rgb(46, 46, 46); }
+   
+   }   
+   
+   @keyframes blink {  
+   0% { color:rgb(81, 255, 0); }
+   50% { color: rgb(78, 212, 16); }
+   100% { color: rgb(46, 46, 46); }
+   
+   
+   }
+   
+
+
+   
+   #reclamatext_e{
+   text-decoration: none;
+   
+   
+       margin-left: 40%;
+   -webkit-animation: blink 4s linear infinite; 
+   animation: blink 4s linear infinite; 
+   font-weight: bold; 
+   
+   }
+   
+   @-webkit-keyframes blink { 
+   0% { color: rgb(81, 255, 0); }
+   50% { color: rgb(78, 212, 16); }
+   100% { color:  rgb(46, 46, 46); }
+   
+   }   
+   
+   @keyframes blink {  
+   0% { color:rgb(81, 255, 0); }
+   50% { color: rgb(78, 212, 16); }
+   100% { color: rgb(46, 46, 46); }
+   
+   
+   }
+   
+     
+   #knopkatext{
+   padding-top: 10px;
+   }
+   
+   
+
+
+
+   #film2{
+      background-color: rgb(255, 255, 255);
+      height: auto;
+   margin-top: 8px;
+   width: 100%;
+   border-radius: 8px;
+  }
+
+
+
+.img1{
+   height: 90px;
+   width: 65px;
+}
+
+
+.img2{
+   height: 110px;
+}
+
+
+
+
+
+
+
+
+
+#rekl2{
+     
+   height: 40px;
+   margin-top: 8px;
+   border-radius: 9px;
+   margin-bottom: 8px;
+}
+
+
+
+
+
+
+
+
+
+#knopka2 {
+width: 20%;
+height: 25px;
+background-color:  rgb(255, 255, 255);
+border-radius: 18px;
+margin-left: 5%;
+margin-top: 2%;
+float: left;
+margin-left: 3%;
+border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+
+
+#reclamatext2{
+text-decoration: none;
+font-size: 10px;
+float: right;
+margin-right: 9%;
+   margin-left: 20%;
+   color: rgb(0, 0, 0);
+font-weight: bold; 
+
+}
+
+
+
+
+#reclamatext2_e{
+text-decoration: none;
+
+
+   margin-left: 40%;
+
+font-weight: bold; 
+
+}
+
+ 
+#knopkatext2{
+padding-top: 6px;
+}
+
+
+
+
+
+
+
+#knopka1 {
+  width: 20%;
+  height: 25px;
+  background-color:  rgb(255, 255, 255);
+  border-radius: 18px;
+  margin-left: 5%;
+  margin-top: 2%;
+  float: right;
+  margin-right: 3%;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+
+
+#reclamatext1{
+  text-decoration: none;
+  font-size: 10px;
+  float: right;
+  margin-right: 6%;
+      margin-left: 20%;
+      color: rgb(0, 0, 0);
+  font-weight: bold; 
+  
+  }
+  
+
+
+
+  
+  #reclamatext1_e{
+  text-decoration: none;
+  
+  
+      margin-left: 40%;
+ 
+  font-weight: bold; 
+  
+  }
+  
+
+    
+  #knopkatext1{
+  padding-top: 6px;
+  }
+  
+  
+
+
+
+
+
+
+  #knopka3 {
+     width: 20%;
+     height: 25px;
+     background-color:  rgb(255, 255, 255);
+     border-radius: 18px;
+     margin-left: 5%;
+     margin-top: 2%;
+     float: left;
+     margin-left: 17%;
+     border: 1px solid rgba(0, 0, 0, 0.6);
+  }
+  
+  
+  
+  #reclamatext3{
+     text-decoration: none;
+     font-size: 10px;
+     float: right;
+     margin-right: 36%;
+         margin-left: 20%;
+ 
+     
+     font-weight: bold; 
+     color: rgb(0, 0, 0);
+     
+     }
+   
+       
+     #knopkatext3{
+     padding-top: 6px;
+     }
+     
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*   --------------------------360--------------------------------  */
+        }
+
+    
+
+
+    
+        @media screen and (min-width: 361px) and (max-width: 394px) {
+    
+
+         #logo{
+             background-color: rgba(0, 0, 0, 0.507);
+             height: 44px;
+             width: 100%;
+           position: fixed;
+         }
+     
+         #logo_img{
+             height: 42px;
+          
+           margin-left: 10px;
+          
+          float: left;
+         
+         }
+     
+         #fon1{
+          width: 100%;
+          height: auto;
+      
+          
+        
+             }
+     
+     
+          #fon1_img{
+             width: 100%;
+           
+         
+           
+              }
+     
+     
+ 
+ 
+ 
+ 
+ 
+ 
+              #menu {
+                width: 98%;
+                height: auto;
+                margin-top: 5px;
+                background-color: rgb(255, 255, 255);
+                color: black;
+                margin-left: 1%;
+                float: left;
+                text-decoration: none;
+                border-radius: 25%;
+               
+            }
+    
+             #text3 {
+                font-family: Georgia;
+                margin-left: 10%;
+                padding-top: 1%;
+             padding-bottom: 1%;
+                font-size: 16px;
+                color: rgb(0, 0, 0);
+            }
+    
+    
+    
+            #text2 {
+            height: auto;
+         margin-left: 30px;
+           
+          padding-bottom: 1%;
+             font-size: 12px;
+             color: rgb(0, 0, 0);
+         }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #film1{
+        background-color: rgb(255, 255, 255);
+        height: auto;
+     margin-top: 36px;
+     width: 100%;
+     border-radius: 8px;
+    }
+    
+    
+    
+    .film_bord{
+        background-color: black;
+        height: auto;
+        border-radius: 9px;
+    padding-top: 1%;
+       padding-bottom: 1%;
+    }
+    
+    
+    .film_text1{
+       color: rgb(255, 255, 255);
+       font-size: 16px;
+     
+       margin-left: 5%;
+       height: auto;
+    }
+    
+    
+    
+        
+       
+               
+    .block1{
+       height: 130px;
+       width: 100px;
+       background-color: rgb(255, 255, 255);
+       float: left;
+       border: 1px solid rgba(0, 0, 0, 0.6);
+    }
+    
+    
+    .block1_1{
+       height: 118px;
+       width: 91px;
+       background-color: rgb(255, 255, 255);
+       margin-left: 4px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    #foto2{
+    
+    background-color: rgb(255, 255, 255);
+    margin-left: 2px;
+    width: 73%;
+    height: 132px;
+    float: left;
+    
+    }
+    
+    
+    .scrolling{
+    height: 122px;
+    width: 288px;
+    background-color: rgb(255, 255, 255);
+    
+    float: left;
+    
+    
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    word-wrap: normal;
+    
+    
+    
+    }
+    
+    
+    
+ #text_opis{
+    font-size: 14px;
+    margin-left: 5px;
+     margin-top: 140px;
+     padding-bottom: 1px;
+ }
+ 
+ 
+ 
+ 
+ 
+ /* реклама 1*/
+ 
+ 
+ 
+ #rekl1{
+    background-color:  rgb(46, 46, 46);
+     height: 40px;
+     margin-top: 8px;
+     border-radius: 9px;
+  }
+  
+  .rekl1_foto1{
+     margin-top: 5px;
+     height: 30px;
+     margin-bottom: 5px;
+     margin-left: 15px;
+     border-radius: 39px;
+     float: left;
+  }
+  
+  .rekl1_text1{
+     margin-top: 3px;
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+     float: left;
+     margin-left: 10px;
+  }
+  
+  #link1{
+     color: rgb(1, 240, 13);
+     float: left;
+  }
+  
+  
+  
+  
+  
+  
+  #knopka {
+     width: 30%;
+     height: 25px;
+     background-color:  rgb(46, 46, 46);
+     border-radius: 18px;
+     margin-left: 5%;
+     margin-top: 2%;
+     float: right;
+     margin-right: 3%;
+     border: 1px solid rgba(0, 0, 0, 0.6);
+  }
+  
+  
+  
+  #reclamatext{
+     text-decoration: none;
+     font-size: 11px;
+     float: right;
+     margin-right: 19%;
+         margin-left: 20%;
+     -webkit-animation: blink 4s linear infinite; 
+     animation: blink 4s linear infinite; 
+     font-weight: bold; 
+     
+     }
+     
+     @-webkit-keyframes blink { 
+     0% { color: rgb(81, 255, 0); }
+     50% { color: rgb(78, 212, 16); }
+     100% { color:  rgb(46, 46, 46); }
+     
+     }   
+     
+     @keyframes blink {  
+     0% { color:rgb(81, 255, 0); }
+     50% { color: rgb(78, 212, 16); }
+     100% { color: rgb(46, 46, 46); }
+     
+     
+     }
+     
+  
+  
+     
+     #reclamatext_e{
+     text-decoration: none;
+     
+     
+         margin-left: 40%;
+     -webkit-animation: blink 4s linear infinite; 
+     animation: blink 4s linear infinite; 
+     font-weight: bold; 
+     
+     }
+     
+     @-webkit-keyframes blink { 
+     0% { color: rgb(81, 255, 0); }
+     50% { color: rgb(78, 212, 16); }
+     100% { color:  rgb(46, 46, 46); }
+     
+     }   
+     
+     @keyframes blink {  
+     0% { color:rgb(81, 255, 0); }
+     50% { color: rgb(78, 212, 16); }
+     100% { color: rgb(46, 46, 46); }
+     
+     
+     }
+     
+       
+     #knopkatext{
+     padding-top: 6px;
+     }
+     
+     
+  
+  
+  
+     #film2{
+        background-color: rgb(255, 255, 255);
+        height: auto;
+     margin-top: 8px;
+     width: 100%;
+     border-radius: 8px;
+    }
+  
+  
+  
+ 
+ 
+ 
+    .img1{
+       height: 118px;
+       width: 95px;
+    }
+    
+    
+    .img2{
+       height: 122px;
+    }
+    
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    #rekl2{
+      
+        height: 40px;
+        margin-top: 8px;
+        border-radius: 9px;
+        margin-bottom: 8px;
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+  
+  #knopka2 {
+    width: 20%;
+    height: 25px;
+    background-color:  rgb(255, 255, 255);
+    border-radius: 18px;
+    margin-left: 5%;
+    margin-top: 2%;
+    float: left;
+    margin-left: 3%;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+ }
+ 
+ 
+ 
+ #reclamatext2{
+    text-decoration: none;
+    font-size: 11px;
+    float: right;
+    margin-right: 9%;
+        margin-left: 20%;
+        color: rgb(0, 0, 0);
+    font-weight: bold; 
+    
+    }
+    
+  
+ 
+    
+    #reclamatext2_e{
+    text-decoration: none;
+    
+    
+        margin-left: 40%;
+  
+    font-weight: bold; 
+    
+    }
+    
+      
+    #knopkatext2{
+    padding-top: 6px;
+    }
+    
+    
+ 
+ 
+ 
+ 
+  
+    #knopka1 {
+       width: 20%;
+       height: 25px;
+       background-color:  rgb(255, 255, 255);
+       border-radius: 18px;
+       margin-left: 5%;
+       margin-top: 2%;
+       float: right;
+       margin-right: 3%;
+       border: 1px solid rgba(0, 0, 0, 0.6);
+    }
+    
+    
+    
+    #reclamatext1{
+       text-decoration: none;
+       font-size: 11px;
+       float: right;
+       margin-right: 10%;
+           margin-left: 20%;
+           color: rgb(0, 0, 0);
+       font-weight: bold; 
+       
+       }
+       
+  
+    
+    
+       
+       #reclamatext1_e{
+       text-decoration: none;
+       
+       
+           margin-left: 40%;
+      
+       font-weight: bold; 
+       
+       }
+       
+    
+         
+       #knopkatext1{
+       padding-top: 6px;
+       }
+       
+       
+ 
+ 
+ 
+ 
+ 
+  
+       #knopka3 {
+          width: 20%;
+          height: 25px;
+          background-color:  rgb(255, 255, 255);
+          border-radius: 18px;
+          margin-left: 5%;
+          margin-top: 2%;
+          float: left;
+          margin-left: 17%;
+          border: 1px solid rgba(0, 0, 0, 0.6);
+       }
+       
+       
+       
+       #reclamatext3{
+          text-decoration: none;
+          font-size: 11px;
+          float: right;
+          margin-right: 36%;
+              margin-left: 20%;
+      
+          
+          font-weight: bold; 
+          color: rgb(0, 0, 0);
+          
+          }
+        
+            
+          #knopkatext3{
+          padding-top: 6px;
+          }
+          
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*----------------------------- 361 ---------------------- 394 -----------------------------------*/
+ 
+ 
+     
+             }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+        @media screen and (min-width: 394px) and (max-width: 415px) {
+    
+
+        #logo{
+            background-color: rgba(0, 0, 0, 0.507);
+            height: 44px;
+            width: 100%;
+          position: fixed;
+        }
+    
+        #logo_img{
+            height: 42px;
+         
+          margin-left: 10px;
+         
+         float: left;
+        
+        }
+    
+        #fon1{
+         width: 100%;
+         height: auto;
+     
+         
+       
+            }
+    
+    
+         #fon1_img{
+            width: 100%;
+          
+        
+          
+             }
+    
+    
+
+
+
+
+
+
+             #menu {
+               width: 98%;
+               height: auto;
+               margin-top: 5px;
+               background-color: rgb(255, 255, 255);
+               color: black;
+               margin-left: 1%;
+               float: left;
+               text-decoration: none;
+               border-radius: 25%;
+              
+           }
+   
+            #text3 {
+               font-family: Georgia;
+               margin-left: 10%;
+               padding-top: 1%;
+            padding-bottom: 1%;
+               font-size: 16px;
+               color: rgb(0, 0, 0);
+           }
+   
+   
+   
+           #text2 {
+           height: auto;
+        margin-left: 30px;
+          
+         padding-bottom: 1%;
+            font-size: 12px;
+            color: rgb(0, 0, 0);
+        }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   #film1{
+       background-color: rgb(255, 255, 255);
+       height: auto;
+    margin-top: 36px;
+    width: 100%;
+    border-radius: 8px;
+   }
+   
+   
+   
+   .film_bord{
+       background-color: black;
+       height: auto;
+       border-radius: 9px;
+   padding-top: 1%;
+      padding-bottom: 1%;
+   }
+   
+   
+   .film_text1{
+      color: rgb(255, 255, 255);
+      font-size: 16px;
+    
+      margin-left: 5%;
+      height: auto;
+   }
+   
+   
+   
+       
+      
+              
+   .block1{
+      height: 130px;
+      width: 100px;
+      background-color: rgb(255, 255, 255);
+      float: left;
+      border: 1px solid rgba(0, 0, 0, 0.6);
+   }
+   
+   
+   .block1_1{
+      height: 118px;
+      width: 91px;
+      background-color: rgb(255, 255, 255);
+      margin-left: 4px;
+   }
+   
+   
+   
+   
+   
+   
+   
+   #foto2{
+   
+   background-color: rgb(255, 255, 255);
+   margin-left: 2px;
+   width: 73%;
+   height: 132px;
+   float: left;
+   
+   }
+   
+   
+   .scrolling{
+   height: 122px;
+   width: 309px;
+   background-color: rgb(255, 255, 255);
+   
+   float: left;
+   
+   
+   overflow-x: scroll;
+   overflow-y: hidden;
+   white-space: nowrap;
+   word-wrap: normal;
+   
+   
+   
+   }
+   
+   
+   
+#text_opis{
+   font-size: 14px;
+   margin-left: 5px;
+    margin-top: 140px;
+    padding-bottom: 1px;
+}
+
+
+
+
+
+/* реклама 1*/
+
+
+
+#rekl1{
+   background-color:  rgb(46, 46, 46);
+    height: 40px;
+    margin-top: 8px;
+    border-radius: 9px;
+ }
+ 
+ .rekl1_foto1{
+    margin-top: 5px;
+    height: 30px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    border-radius: 39px;
+    float: left;
+ }
+ 
+ .rekl1_text1{
+    margin-top: 3px;
+   font-size: 12px;
+   color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 10px;
+ }
+ 
+ #link1{
+    color: rgb(1, 240, 13);
+    float: left;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ #knopka {
+    width: 30%;
+    height: 25px;
+    background-color:  rgb(46, 46, 46);
+    border-radius: 18px;
+    margin-left: 5%;
+    margin-top: 2%;
+    float: right;
+    margin-right: 3%;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+ }
+ 
+ 
+ 
+ #reclamatext{
+    text-decoration: none;
+    font-size: 11px;
+    float: right;
+    margin-right: 19%;
+        margin-left: 20%;
+    -webkit-animation: blink 4s linear infinite; 
+    animation: blink 4s linear infinite; 
+    font-weight: bold; 
+    
+    }
+    
+    @-webkit-keyframes blink { 
+    0% { color: rgb(81, 255, 0); }
+    50% { color: rgb(78, 212, 16); }
+    100% { color:  rgb(46, 46, 46); }
+    
+    }   
+    
+    @keyframes blink {  
+    0% { color:rgb(81, 255, 0); }
+    50% { color: rgb(78, 212, 16); }
+    100% { color: rgb(46, 46, 46); }
+    
+    
+    }
+    
+ 
+ 
+    
+    #reclamatext_e{
+    text-decoration: none;
+    
+    
+        margin-left: 40%;
+    -webkit-animation: blink 4s linear infinite; 
+    animation: blink 4s linear infinite; 
+    font-weight: bold; 
+    
+    }
+    
+    @-webkit-keyframes blink { 
+    0% { color: rgb(81, 255, 0); }
+    50% { color: rgb(78, 212, 16); }
+    100% { color:  rgb(46, 46, 46); }
+    
+    }   
+    
+    @keyframes blink {  
+    0% { color:rgb(81, 255, 0); }
+    50% { color: rgb(78, 212, 16); }
+    100% { color: rgb(46, 46, 46); }
+    
+    
+    }
+    
+      
+    #knopkatext{
+    padding-top: 6px;
+    }
+    
+    
+ 
+ 
+ 
+    #film2{
+       background-color: rgb(255, 255, 255);
+       height: auto;
+    margin-top: 8px;
+    width: 100%;
+    border-radius: 8px;
+   }
+ 
+ 
+ 
+
+
+
+   .img1{
+      height: 118px;
+      width: 95px;
+   }
+   
+   
+   .img2{
+      height: 122px;
+   }
+   
+   
+
+
+
+
+
+
+
+
+   #rekl2{
+     
+       height: 40px;
+       margin-top: 8px;
+       border-radius: 9px;
+       margin-bottom: 8px;
+    }
+
+
+
+
+
+
+
+   
+ 
+ #knopka2 {
+   width: 20%;
+   height: 25px;
+   background-color:  rgb(255, 255, 255);
+   border-radius: 18px;
+   margin-left: 5%;
+   margin-top: 2%;
+   float: left;
+   margin-left: 3%;
+   border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+
+
+#reclamatext2{
+   text-decoration: none;
+   font-size: 11px;
+   float: right;
+   margin-right: 9%;
+       margin-left: 20%;
+       color: rgb(0, 0, 0);
+   font-weight: bold; 
+   
+   }
+   
+ 
+
+   
+   #reclamatext2_e{
+   text-decoration: none;
+   
+   
+       margin-left: 40%;
+ 
+   font-weight: bold; 
+   
+   }
+   
+     
+   #knopkatext2{
+   padding-top: 6px;
+   }
+   
+   
+
+
+
+
+ 
+   #knopka1 {
+      width: 20%;
+      height: 25px;
+      background-color:  rgb(255, 255, 255);
+      border-radius: 18px;
+      margin-left: 5%;
+      margin-top: 2%;
+      float: right;
+      margin-right: 3%;
+      border: 1px solid rgba(0, 0, 0, 0.6);
+   }
+   
+   
+   
+   #reclamatext1{
+      text-decoration: none;
+      font-size: 11px;
+      float: right;
+      margin-right: 10%;
+          margin-left: 20%;
+          color: rgb(0, 0, 0);
+      font-weight: bold; 
+      
+      }
+      
+ 
+   
+   
+      
+      #reclamatext1_e{
+      text-decoration: none;
+      
+      
+          margin-left: 40%;
+     
+      font-weight: bold; 
+      
+      }
+      
+   
+        
+      #knopkatext1{
+      padding-top: 6px;
+      }
+      
+      
+
+
+
+
+
+ 
+      #knopka3 {
+         width: 20%;
+         height: 25px;
+         background-color:  rgb(255, 255, 255);
+         border-radius: 18px;
+         margin-left: 5%;
+         margin-top: 2%;
+         float: left;
+         margin-left: 17%;
+         border: 1px solid rgba(0, 0, 0, 0.6);
+      }
+      
+      
+      
+      #reclamatext3{
+         text-decoration: none;
+         font-size: 11px;
+         float: right;
+         margin-right: 36%;
+             margin-left: 20%;
+     
+         
+         font-weight: bold; 
+         color: rgb(0, 0, 0);
+         
+         }
+       
+           
+         #knopkatext3{
+         padding-top: 6px;
+         }
+         
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -----------------------------------------394  ------ 415---------------------------*/
+    
+            }
+   
+    
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
